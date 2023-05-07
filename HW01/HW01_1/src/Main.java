@@ -1,8 +1,5 @@
 // Реализуйте 3 метода, чтобы в каждом из них получить разные исключения
 
-import java.io.File;
-import java.io.FileNotFoundException;
-
 public class Main {
     public static void main(String[] args) {
         System.out.println(divide(5, 0));

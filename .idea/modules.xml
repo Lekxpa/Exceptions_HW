@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Exceptions_HW.iml" filepath="$PROJECT_DIR$/Exceptions_HW.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW01/HW01.iml" filepath="$PROJECT_DIR$/HW01/HW01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW01/HW01_3/HW01_03.iml" filepath="$PROJECT_DIR$/HW01/HW01_3/HW01_03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW01/HW01_1/HW01_1.iml" filepath="$PROJECT_DIR$/HW01/HW01_1/HW01_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW01/HW01_4/HW01_4.iml" filepath="$PROJECT_DIR$/HW01/HW01_4/HW01_4.iml" />
+    </modules>
+  </component>
+</project>

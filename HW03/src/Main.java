@@ -25,7 +25,12 @@
 
 public class  Main {
     public static void main(String[] args) {
+<<<<<<< HEAD
         Program1<View> program1 = new Program1<View>(new ConsoleView());
         program1.start();
+=======
+        Program<View> program = new Program<View>(new ConsoleView());
+        program.start();
+>>>>>>> origin/master
     }
 }

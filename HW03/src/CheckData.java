@@ -14,9 +14,15 @@ public class CheckData {
     public CheckData() {
     }
     public void CheckD(String[] dataString) throws ExceptionData {
+<<<<<<< HEAD
         if (dataString == null) {
             throw new NullPointerException("Данные не введены");
         }
+=======
+//        if (dataString == null) {
+//            throw new NullPointerException("Данные не введены");
+//        }
+>>>>>>> origin/master
         StringBuilder messageWrong = new StringBuilder();
         for (String string : dataString) {
             if (Character.isLetter(string.charAt(0))) {

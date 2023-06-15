@@ -4,55 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f340fe4-2851-4624-9220-718d7e991893" name="Changes" comment="change files HW03">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW01/HW01_3/HW01_31.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW01/HW01_4/HW01_41.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW02/HW02_01/HW02_011.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW02/HW02_02/HW02_021.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW02/HW02_03/HW02_031.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW02/HW02_04/HW02_041.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW03/src/Program1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW_03/HW_03.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW_03/src/CheckData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW_03/src/ConsoleView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW_03/src/ExceptionBirth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW_03/src/ExceptionData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW_03/src/ExceptionFIO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW_03/src/ExceptionGender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW_03/src/ExceptionPhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW_03/src/Gender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW_03/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW_03/src/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW_03/src/View.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW_03/src/Writefile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW__03/HW__03.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW__03/src/DataException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW__03/src/ExceptionBirthday.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW__03/src/ExceptionFIO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW__03/src/ExceptionGender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW__03/src/ExceptionPhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW__03/src/InputData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW__03/src/ParsData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW__03/src/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="8f340fe4-2851-4624-9220-718d7e991893" name="Changes" comment="change file HW01_1">
+      <change afterPath="$PROJECT_DIR$/HW02/HW02_01/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW02/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW03/src/CheckData.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW03/src/CheckData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW03/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW03/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW03/src/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW03/src/Program.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -68,26 +28,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;corretto-11&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Asus/IdeaProjects/Exceptions&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "jdk.selected.JAVA_MODULE": "corretto-11"
   }
-}</component>
-  <component name="RunManager" selected="Application.Program">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+}]]></component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="HW03" />
+      <module name="HW01_4" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="HW__03" />
+      <module name="HW02_01" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="HW02_02" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -106,20 +71,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Program" />
-      <module name="HW__03" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Program" />
-        <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (5)" />
+        <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -146,46 +104,12 @@
       <option name="project" value="LOCAL" />
       <updated>1683459633186</updated>
     </task>
-    <task id="LOCAL-00003" summary="add file HW02_01">
-      <created>1683551359594</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1683551359595</updated>
-    </task>
-    <task id="LOCAL-00004" summary="add file HW02_02-04">
-      <created>1683551588347</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1683551588347</updated>
-    </task>
-    <task id="LOCAL-00005" summary="change files HW03">
-      <created>1686239572956</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1686239572957</updated>
-    </task>
-    <option name="localTasksCounter" value="6" />
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add files of HWs" />
     <MESSAGE value="change file HW01_1" />
-    <MESSAGE value="add file HW02_01" />
-    <MESSAGE value="add file HW02_02-04" />
-    <MESSAGE value="change files HW03" />
-    <option name="LAST_COMMIT_MESSAGE" value="change files HW03" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/HW03/src/Main.java</url>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <option name="LAST_COMMIT_MESSAGE" value="change file HW01_1" />
   </component>
 </project>
